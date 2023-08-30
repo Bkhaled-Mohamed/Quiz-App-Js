@@ -117,3 +117,7 @@ body{
     background-color: rgb(23, 21, 21);
     color: white;
 }
+
+.button1.disapled:hover{
+    background-color: none;
+}

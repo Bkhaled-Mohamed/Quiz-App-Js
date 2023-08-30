@@ -1,8 +1,8 @@
 
 const facts = [
-    {question: "is running good for health?" , "answer" : "yes" , "expl" :  "offcorse running is good for your body health and even mental health too !"},
-    {question: "is eating good for health?" , "answer" : "yes",  "expl" :  "try starving then!! offcorse eating is good for health "},
-    {question: "is drinking good for health?" , "answer" : "yes",  "expl" :  "drinking good amount of Water is defently good for the health"},
+    {question: "is running good for health?" , "answer" : "yes" , "expl" :  "running is convenient and affords countless benefits for both physical and mental health."},
+    {question: "is eating good for health?" , "answer" : "yes",  "expl" :  "eating Improved gut health, memory, maintains Better mood.  "},
+    {question: "is drinking good for health?" , "answer" : "yes",  "expl" :  "drinking good amount of Water Prevents dehydration and overheating, Keeping your skin healthy"},
 ]
 
 
